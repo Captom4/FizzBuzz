@@ -11,5 +11,5 @@
 
 # How to exit the FizzBuzz program
 
-1. type quit into the terminal to exit the FizzBuzz program or use Ctrl d.
+1. Type quit into the terminal to exit the FizzBuzz program or use Ctrl d.
 
